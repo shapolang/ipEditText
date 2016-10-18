@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--dialog-->
+    <color name="dialogTitleBg">#dcdcdc</color>
+    <color name="dialogCancelTextColor">#69bffd</color>
+    <color name="dialog_title">#69bffd</color>
+    <color name="ipBg">#ffffff</color>
+</resources>
